@@ -17,7 +17,7 @@ Pressing the joystick down outputs a +10V Gate signal.
 - Format: Eurorack
 - Function: Attenuator-Inverter joystick controller and Gate Generator.
 - Current needs: +12V: 25mA, -12V: 10mA
-- Width: 12 HP
+- Width: 6 HP
 - Depth: 25mm (including power connector)
 
 
