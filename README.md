@@ -1,4 +1,5 @@
 # Joystick
+![Joystick Front](Images/Joystick_Front.jpeg)
 
 ## 概要 / Overview
 
@@ -44,4 +45,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 ## 更新履歴 / Changelog
 
 - `2024-09-28` v1.0 Unreleased
-- `2025-04-09` v2.0 Released version 2.0  
+- `2025-04-24` v2.0 Released version 2.0  
