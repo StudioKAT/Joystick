@@ -16,7 +16,7 @@ Pushing the joystick down generates a +10V Gate signal.
 - **Format**: Eurorack  
 - **Width**: 6 HP  
 - **Depth**: 25 mm  
-- **Current Draw**: +12V: 25mA / -12V: 25mA  
+- **Current Draw**: +12V: 35mA / -12V: 35mA  
 
 > **IMPORTANT**: Make sure the red stripe on the ribbon cable connects to -12V.  
 > Incorrect installation may cause permanent damage to the module.  
