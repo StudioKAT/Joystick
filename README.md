@@ -22,7 +22,7 @@ Pressing the joystick down outputs a +10V Gate signal.
 - Depth: 25mm (including power connector)
 
 ## 動画 / Movie
-[!['Joystick商品説明動画'](Images\Joystick_thumbnail.png)](https://youtu.be/lRxTDCcPD24)
+[!['Joystick商品説明動画'](https://github.com/user-attachments/assets/82bb2017-e640-4f13-bd05-b895a85bef5e)](https://youtu.be/lRxTDCcPD24)
 
 
 ## 販売 / Sales
