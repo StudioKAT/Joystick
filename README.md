@@ -1,5 +1,5 @@
 # Joystick
-![Joystick Front](v2.0\Images\Joystick_Front.jpeg)
+![Joystick Front](v2.0/Images/Joystick_Front.jpeg)
 
 ## 概要 / Overview
 
