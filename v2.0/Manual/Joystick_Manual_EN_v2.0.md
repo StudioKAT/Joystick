@@ -1,6 +1,6 @@
 # Joystick Manual (English)
 
-![Joystick Front](../Images/Joystick_Front.jpeg)
+![Joystick Front](../../Images/Joystick_Front.jpeg)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Pushing the joystick down generates a +10V Gate signal.
 
 ## Features
 
-![explanation](../Images/Joystick_Ex.jpg)
+![explanation](../../Images/Joystick_Ex.jpg)
 
 1. **LED (X/Y)**  
    Indicates the amplitude and polarity of the CV output.  

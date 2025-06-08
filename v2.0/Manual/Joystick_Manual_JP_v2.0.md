@@ -1,6 +1,6 @@
 # Joystick マニュアル（日本語）
 
-![Joystick Front](../Images/Joystick_Front.jpeg)
+![Joystick Front](../../Images/Joystick_Front.jpeg)
 
 ## 概要
 
@@ -26,7 +26,7 @@ CVレンジおよびオフセットはX軸・Y軸ごとに個別に調整可能�
 
 ## 各部の機能
 
-![explanation](../Images/Joystick_Ex.jpg)
+![explanation](../../Images/Joystick_Ex.jpg)
 
 1. **LED (X/Y)**  
    CV出力信号の振幅と極性を表示します。  
